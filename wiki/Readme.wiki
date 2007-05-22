@@ -7,11 +7,9 @@ Welcome to npp-installer! The automated notepad++ installer for linux.
 
 This application is easy to use, and should require little effort to use properly. 
 
-Your linux system needs to have apt-get and wget to work. It has currently been tested on Ubuntu 7.04 and Debian 4.0 (but not the latest fix)
+Your linux system needs to have apt-get and wget to work. It has currently been tested on Ubuntu 7.04 and Debian 4.0 (but not the latest fix). You will also need wine in your distro's repos.
 
-Please send feedback to gunny01@gmail.com
-
-This software is open source/Free and licence under the MIT licence. See LICENCE for more details. 
+This software is open source/Free and licensed under the MIT license. See LICENSE for more details. 
 
 How To:
 
@@ -19,9 +17,9 @@ Unpack this directory
 
 then run;
 
-*chmod 755 ./npp-installer.py
+_chmod 755 ./npp-installer.py_
 
-python npp-installer.py*
+_python npp-installer.py_
 
 Follow the prompts
 
